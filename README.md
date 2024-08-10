@@ -4,7 +4,7 @@ Project created on: Feb 20,2023
 README file created on Feb 25, 2023
 
 ### Project Title
-Bike Share Udacity Project
+Investigating a Dataset
 
 ### Suggested Requirements
 - jupyter notebooks
