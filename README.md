@@ -96,9 +96,14 @@ pip install pandas numpy matplotlib seaborn jupyter
 The notebook produces two main visual outputs that directly answer the research questions:
 
 - **Movies released per year (line/bar chart)** — shows the volume trend of films released annually over the dataset's time span
+
+<img width="343" height="1148" alt="bar of movies vs year" src="https://github.com/user-attachments/assets/597d4ac1-ddc5-4a3d-b0c2-a9a909af5943" />
+
+  
 - **Popularity over time (line chart)** — shows how the average/median `popularity` score has trended across release years
 
-*(Add the actual chart images from your notebook here — these two visuals are the core deliverable of the project and make the README far more compelling at a glance.)*
+<img width="333" height="1148" alt="movie popularity vs year" src="https://github.com/user-attachments/assets/99877915-88e0-4cbb-a597-00e853561c6c" />
+
 
 ---
 
