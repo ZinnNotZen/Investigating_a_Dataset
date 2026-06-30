@@ -97,12 +97,14 @@ The notebook produces two main visual outputs that directly answer the research 
 
 - **Movies released per year (line/bar chart)** — shows the volume trend of films released annually over the dataset's time span
 
-<img width="343" height="1148" alt="bar of movies vs year" src="https://github.com/user-attachments/assets/597d4ac1-ddc5-4a3d-b0c2-a9a909af5943" />
+<img width="259" height="867" alt="Screenshot 2026-06-30 at 5 26 58 PM" src="https://github.com/user-attachments/assets/b44f43f6-6137-4458-9e17-ba5e97d11c3e" />
+
 
   
 - **Popularity over time (line chart)** — shows how the average/median `popularity` score has trended across release years
 
-<img width="333" height="1148" alt="movie popularity vs year" src="https://github.com/user-attachments/assets/99877915-88e0-4cbb-a597-00e853561c6c" />
+<img width="259" height="872" alt="Screenshot 2026-06-30 at 5 27 17 PM" src="https://github.com/user-attachments/assets/b3f8d4cb-b4b1-4346-ae02-893fac3afde3" />
+
 
 
 ---
